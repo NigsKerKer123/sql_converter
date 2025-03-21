@@ -1,0 +1,2 @@
+INSERT INTO your_table_name (name, email, school_year, course, college, passkey, casted_vote) VALUES ('sample1', 'sample@gmail.com', '4', 'BSIT', 'COT', NULL, '0');
+INSERT INTO your_table_name (name, email, school_year, course, college, passkey, casted_vote) VALUES ('sample', 'test@gmail.com', '3', 'BSN', 'CON', NULL, '0');
